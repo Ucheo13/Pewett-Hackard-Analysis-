@@ -6,9 +6,6 @@ To determine the number of retiring employees per title, and identify employees 
  
 
 ## Results
-[retirement_titles.csv](https://github.com/Ucheo13/Pewett-Hackard-Analysis-/files/8107304/retirement_titles.csv)
-[uniques_titles.csv](https://github.com/Ucheo13/Pewett-Hackard-Analysis-/files/8107306/uniques_titles.csv)
-[mentorship_eligibility.csv](https://github.com/Ucheo13/Pewett-Hackard-Analysis-/files/8107309/mentorship_eligibility.csv)
 
 After removing the duplicates, we were able to see the amount of each title there is, Senior Engineer the most and Manager the least frequent. 
 
